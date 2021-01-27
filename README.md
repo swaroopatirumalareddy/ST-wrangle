@@ -1,12 +1,12 @@
 # ST-wrangle
-- I have been assigned with Julius Caesar as my number is 14
-- Here is the link for it 
+## I have been assigned with Julius Caesar as my number is 14
+ Here is the link for it 
 - http://shakespeare.mit.edu/julius_caesar/full.html
 ## My Player 1 :
 - ANTONY
 ## My Player 2 :
 - OCTAVIUS
-- I have been asked to count the occurance of player 1 and player 2 
+## I have been asked to count the occurance of player 1 and player 2 
 ## Commands I have used:
 - Firstly, with the help of curl command I have fetched the data from the URL 
 curl "http://shakespeare.mit.edu/julius_caesar/full.html" -O JuliusCaesar.txt
